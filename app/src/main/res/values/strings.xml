@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">p8</string>
+    <string name="search_hint"> Enter movie title </string>
+    <string name="search"> Search </string>
+    <string name="movie_poster"> Movie Poster </string>
+    <string name="imdb_link"> IMDb Page </string>
+    <string name="share"> Share </string>
+    <string name="feedback"> Send Feedback </string>
+    <string name="enter_movie_name"> Please enter a movie name </string>
+    <string name="movie_not_found"> Movie not found </string>
+    <string name="error_fetching_movie"> Error fetching movie details </string>
+</resources>
