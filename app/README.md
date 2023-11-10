@@ -21,6 +21,9 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![project8final](https://github.com/joannanjeri/p8/assets/112664855/6e5e11ab-a809-44e3-b4f3-ca31e391de01)
+
+
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
